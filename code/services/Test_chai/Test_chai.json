@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,chai",
+    "logging_enabled": "false",
+    "name": "Test_chai",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "Test_chai.js"
+}
